@@ -1,2 +1,41 @@
-# Books_REST_API_PROJECT
-Books REST API + Frontend A simple full-stack project that demonstrates how to build a REST API using Flask and connect it to a clean HTML/CSS/JS frontend. Supports adding, viewing, updating, and deleting books using GET, POST, PUT, and DELETE endpoints
+🔥 Features
+
+REST API built with Flask
+
+Supports GET, POST, PUT, and DELETE operations
+
+Frontend built with HTML + CSS + JavaScript
+
+Allows users to add, view, update, and delete books
+
+Clean UI with message popups and responsive buttons
+
+Fully beginner-friendly, great for learning full-stack basics
+
+🛠 Technologies Used
+
+Python (Flask)
+
+HTML
+
+CSS
+
+JavaScript
+
+Fetch API
+
+CORS support
+
+🎯 Purpose
+
+This project helps you understand:
+
+How REST APIs work
+
+How frontend and backend communicate
+
+Using JSON in real applications
+
+CRUD operations
+
+Basic full-stack development workflow
