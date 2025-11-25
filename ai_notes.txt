@@ -1,0 +1,2 @@
+AI Notes:
+AI helped generate backend Flask API, frontend HTML/CSS/JS, and project structure.
